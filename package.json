@@ -1,0 +1,36 @@
+{
+  "name": "ace",
+  "displayName": "ace",
+  "description": "A very chill cool Theme",
+  "version": "0.0.1",
+  "author": "Abhyuday Tripathi",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "ace",
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ace - Theme for Winners",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ace - Theme for Winners-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "url": "git+https://github.com/abhyuday-tripathi/Ace.git"
+  },
+  "bugs": {
+    "email": "tripathi.abhyuday2010@gmail.com",
+    "url": "https://github.com/abhyuday-tripathi/Ace/issues"
+  },
+  "homepage": "https://github.com/abhyuday-tripathi/Ace#readme",
+  "license": "MIT"
+}
