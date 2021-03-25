@@ -4,6 +4,7 @@
   "description": "A very chill cool Theme",
   "version": "0.0.1",
   "author": "Abhyuday Tripathi",
+  "publisher": "AbhyudayTripathi",
   "engines": {
     "vscode": "^1.46.0"
   },
@@ -13,7 +14,10 @@
   "keywords": [
     "ace",
     "theme",
-    "dark"
+    "dark",
+    "abhyudaytripathi",
+    "abhyuday",
+    "tripathi"
   ],
   "contributes": {
     "themes": [
@@ -25,7 +29,8 @@
     ]
   },
   "repository": {
-    "url": "git+https://github.com/abhyuday-tripathi/Ace.git"
+    "type": "git",
+    "url": "https://github.com/abhyuday-tripathi/Ace.git"
   },
   "bugs": {
     "email": "tripathi.abhyuday2010@gmail.com",
